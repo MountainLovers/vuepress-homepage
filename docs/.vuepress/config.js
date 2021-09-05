@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Harry Potter",
-  description: "The description of the site.",
+  title: "Zongjie Zhang",
+  description: "Welcome to my homepage.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
   dest: "./dist",
@@ -9,14 +9,9 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "Blog", link: "https://blog.zongjie.xyz" },
+      { text: "Love", link: "http://www.赵敬一.我爱你"}
     ],
-    sidebar: {
-      '/guide/': genSidebarConfig('Guide')
-    },
     lastUpdated: 'Last Updated'
   },
 
@@ -28,19 +23,3 @@ module.exports = {
     }
   }
 };
-
-function genSidebarConfig (title) {
-  return [
-    {
-      title,
-      collapsable: false,
-      children: [
-        '',
-        'getting-started',
-        'customize',
-        'advanced',
-      ]
-    }
-  ]
-}
-
