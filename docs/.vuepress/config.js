@@ -10,7 +10,8 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Blog", link: "https://blog.zongjie.xyz" },
-      { text: "Love", link: "http://www.赵敬一.我爱你"}
+      { text: "Love", link: "http://www.赵敬一.我爱你"},
+      { text: "Disk", link: "https://pan.zongjie.space" }
     ],
     lastUpdated: 'Last Updated'
   },
