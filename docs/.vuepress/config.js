@@ -10,10 +10,10 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "Blog", link: "https://blog.zongjie.xyz" },
-      { text: "Love", link: "http://www.赵敬一.我爱你"},
-      { text: "Disk", link: "https://pan.zongjie.space" }
     ],
-    lastUpdated: 'Last Updated'
+    lastUpdated: 'Last Updated',
+    record: '鲁ICP备2021013011号',
+    recordLink: 'https://beian.miit.gov.cn/',
   },
 
   markdown: {
