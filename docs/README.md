@@ -23,7 +23,7 @@ email: zzjzxh@126.com / zongjie.z@stu.pku.edu.cn
 
 Currently, I am a postgraduate with the [School of Software and Microelectronics](http://www.ss.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). Before that, I received my B.S. in information security in 2020 from [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/).
 
-I am interested in the area of authentication protocol and applied cryptography.
+I am interested in the area of **Authentication** and **Deepfake Detection**.
 
 
 ## News
@@ -36,7 +36,7 @@ I am interested in the area of authentication protocol and applied cryptography.
 
 - **Peking University** (2020.09 - Current)
   - Master Candidate of Cyber Security
-  - Research focuses on Authentication Protocol
+  - Research focuses on Authentication and Deepfake
   - Supervised by Wenting Li and Haibo Cheng
 
 - **Nanjing University of Aeronautics & Astronautics** (2016.09 - 2020.06) 
@@ -44,6 +44,12 @@ I am interested in the area of authentication protocol and applied cryptography.
   - Supervised by Prof. [Zhu youwen](http://zhuyw.cn/), College of Computer Science and Technology
 
 ## Intern
+
+- **Bytedance** (2021.09 - 2022.01)
+  - Security Engineer
+  - Design and develop a source code leak detection system
+  - Multi-server architecture, Simhash, TF-IDF
+
 
 - **Qi-AnXin** (2021.08 - 2021.09)
   - Software analysis, vulnerability discovery
